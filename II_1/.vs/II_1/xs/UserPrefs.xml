@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{AAB93C77-7FF4-19D3-774F-A08B3AEF4C87}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ChangeColorOnSphereOrEthanPresense.cs">
+    <Files>
+      <File FileName="Assets/ChangeColorOnSphereOrEthanPresense.cs" Line="55" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

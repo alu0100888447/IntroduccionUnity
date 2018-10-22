@@ -5,12 +5,15 @@ TagManager:
   serializedVersion: 2
   tags:
   - Terrain
-  - Sphere1
-  - Cube1
   - SpotLight
   - DirectionalLight
   - Ethan
   - Lake
+  - Sphere
+  - Cube
+  - MovingSphere
+  - FixedSphere
+  - Sensor
   layers:
   - Default
   - TransparentFX
