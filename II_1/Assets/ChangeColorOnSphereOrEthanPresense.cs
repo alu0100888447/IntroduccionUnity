@@ -5,9 +5,9 @@ using UnityEngine;
 public class ChangeColorOnSphereOrEthanPresense : MonoBehaviour
 {
     private Renderer _renderer;
-    private float redColorComponent = 0.0f;
-    private float greenColorComponent = 0.0f;
-    private float blueColorComponent = 0.0f;
+    private float redColorComponent = 1.0f;
+    private float greenColorComponent = 1.0f;
+    private float blueColorComponent = 1.0f;
 
     void Start()
     {

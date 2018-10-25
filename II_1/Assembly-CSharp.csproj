@@ -64,6 +64,7 @@
     <Compile Include="Assets\ChangeColorOnSphereOrEthanPresense.cs" />
     <Compile Include="Assets\EthanSphereCollision.cs" />
     <Compile Include="Assets\MoveBall.cs" />
+    <Compile Include="Assets\MoveCubeByInput.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
